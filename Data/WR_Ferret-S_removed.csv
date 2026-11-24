@@ -1,0 +1,33 @@
+Date,Day,Time,Experimenter,Regime type,Animal,Animal weight,Weight loss (% of baseline),Bottle weight n-1,Bottle weight n,Difference (water consumption),Plain water consumption,,Performance ,,Level up (y/n : which if y),Charles' day,Comment
+,,,,,,,,,,,Training,Post training,Morning,Afternoon,,,
+20240603,,,,,,Baseline weight ,"1001,2",,,,,,,,,,Baseline
+20240604,Tuesday,,Hortense,water restriction,Shropshire,"974,3","-2,686775869",x,x,x,"0,5",,,"0,03875968992",n,o,Weight taken before water consumption
+20240605,Wednesday,18h25,Hortense,water restriction,Shropshire,1001,"-0,01997602877",x,x,x,2,33,,"0,02631578947",n,x,Weight taken after water intake
+20240606,Thursday,18h12,Hortense,water restriction,Shropshire,"954,2","-4,69436676",x,x,x,"5,5","29,5","0,03703703704","0,1134020619",n,x,Weight taken before water consumption
+20240607,Friday,18h30,Hortense,water restriction,Shropshire,"950,8","-5,033959249",x,x,x,"6,2",29,"0,2967032967","0,09482758621",n,x,Weight taken before water consumption
+20240610,Monday,18h19,Hortense,water restriction,Shropshire,"976,9","-2,427087495",x,x,x,"5,5","26,5","0,02521008403","0,2323232323",n,x,"Got 3mL early in morning, weight taken before water intake"
+20240611,Tuesday,18h17,Hortense,water restriction,Shropshire,"997,7","-0,3495805034",x,x,x,9,26,"0,05974842767","0,1150442478",n,x,Weight after water intake
+20240612,Wednesday,18h59,Hortense,water restriction,Shropshire,"982,4","-1,877746704",x,x,x,"6,5",29,"0,1020408163","0,03539823009",n,x,
+20240613,Thursday,18h39,Hortense,water restriction,Shropshire,"983,6","-1,757890531",x,x,x,"5,3458",30,"0,03428571429","0,2201257862",n,x,
+20240614,Friday,18h02,Hortense,water restriction,Shropshire,"970,8","-3,036356372",x,x,x,"7,0558",28,"0,4222222222","0,1796875",n,o,
+20240617,Monday,18h18,Hortense,water restriction,Shropshire,"1001,1","-0,009988014383",x,x,x,"0,8",35,0,"0,05755395683",n,x,
+20240618,Tuesday,17h56,Hortense,water restriction,Shropshire,"1006,1","0,4894127048",x,x,x,"4,4",31,"0,1086956522","0,2988505747",n,x,got cat food around 14h45
+20240619,Wednesday,18h50,Hortense,water restriction,Shropshire,"987,2","-1,398322014",x,x,x,"6,1",29,"0,2189781022","0,1573604061",n,x,
+20240620,Thursday,18h05,Hortense,water restriction,Shropshire,"968,2","-3,296044746",x,x,x,"7,1",20,"0,4060150376","0,1205673759",n,o,left 8mL in her bowl before weight taken
+20240621,Friday,18h14,Hortense,water restriction,Shropshire,"966,5","-3,465840991",x,x,x,4,31,"0,4155844156","0,04255319149",n,x,
+20240624,Monday,18h16,Hortense,water restriction,Shropshire,991,"-1,018777467",x,x,x,"1,6",19,"0,005025125628","0,09090909091",n,x,left 15mL in bowl
+20240625,Tuesday,18h15,Hortense,water restriction,Shropshire,"971,5","-2,966440272",x,x,x,"3,4","15,5","0,2328767123","0,1162790698",n,x,"left 16,5mL in bowl"
+20240626,Wednesday,17h36,Hortense,water restriction,Shropshire,"973,5","-2,766679984",x,x,x,"4,3",25,"0,2105263158","0,1151079137",n,o,left approx 6mL in bowl
+20240627,Thursday,18h04,Hortense,water restriction,Shropshire,"1010,9","0,9688373951",x,x,x,0,29,,0,n,x,left approx 6mL in bowl
+20240628,Friday,18h01,Hortense,water restriction,Shropshire,"982,5","-1,86775869",x,x,x,0,25,,0,n,x,left approx 10mL in bowl
+20240701,Monday,18h23,Hortense,water restriction,Shropshire,"970,5","-3,066320416",x,x,x,"2,4",20,0,"0,1276595745",n,x,got 3mL of water out of training because was getting to 24h without water. left 10mL in bowl
+20240702,Tuesday,17h59,Hortense,water restriction,Shrospshire,"1005,5","0,4294846185",x,x,x,"2,7",18,"0,1824324324",0,n,o,left 15mL in bowl
+20240703,Wednesday,19h35,Hortense,water restriction,Shropshire,"982,8","-1,837794646",x,x,x,2,33,"0,1142857143",0,n,x,left approx 10mL in bowl
+20240704,Thursday,18h31,Hortense,water restriction,Shropshire,977,"-2,417099481",x,x,x,0,35,,0,n,x,Drunk everything !
+20240705,Friday,,Hortense,water restriction,Shropshire,,,x,x,x,"1,1",34,0,"0,05213270142",n,x,
+,,BREAK,,water restriction,Shropshire,,-100,,,,,,,,,,
+,,,,water restriction,,,-100,,,,,,,,,,
+,,,,water restriction,,,-100,,,,,,,,,,
+,,,,water restriction,,,,,,,,,,,,,
+,,,,water restriction,,,,,,,,,,,,,
+,,,,water restriction,,,-100,,,,,,,,,,
