@@ -1,0 +1,32 @@
+Date,Day,Time,Experimenter,Water type,Animal,Animal weight,Weight loss (% of baseline),Bottle weight n-1,Bottle weight n,Difference (water consumption),Total plain water consumption ,,,Performance ,,Level up (y/n : which if y),Charles,Comment
+,,,,,,,,,,,Training morning,Training afternoon,Post training,Morning,Afternoon,,,
+20240910,Tuesday,18h13,Hortense,citric acid,Chistera,"880,8",,,,,,,,,,,,Baseline
+20240911,Wednesday,17h17,Hortense,citric acid,Chistera,875,,x,x,,,,,,,,,Baseline
+20240912,Thursday,17h14,Hortense,citric acid,Chistera,"872,8",,"769,31","735,32","33,99",,,,,,,,Baseline
+20240913,Friday,17h03,Hortense,citric acid,Chistera,860,,"735,32","710,83","24,49",,,,,,,,Baseline
+20240914,Saturday,17h36,Hortense,citric acid,Chistera,"858,7",,"710,83","682,41","28,42",,,,,,,,Baseline
+Baseline,,,,citric acid,Chistera,Mean weight :,"859,35",Mean PW consumption/day :,,"28,96666667",,,,,,,,Baseline
+20240916,Monday,17h45,Hortense,citric acid,Chistera,"866,1","0,7854773957","325,7","320,08","5,62","4,7","1,8",29,"0,5802469136","0,2903225806",n,x,
+20240917,Tuesday,17h33,Hortense,citric acid,Chistera,"865,6","0,7272938849","324,3","319,16","5,14","1,3","5,2",29,"0,2096774194","0,7123287671",n,o,
+20240918,Wednesday,17h42,Hortense,citric acid,Chistera,864,"0,5411066504","324,36","313,39","10,97","6,9","5,8",23,"0,5307692308","0,6987951807",n,x,
+20240919,Thursday,17h51,Hortense,citric acid,Chistera,"855,9","-0,4014662245","323,98","314,12","9,86","6,9","7,2",21,"0,7419354839","0,75",y,x,
+20240920,Friday,17h41,Hortense,citric acid,Chistera,"851,5","-0,9134811195","323,84","317,15","6,69","5,7","5,2",20,"0,6551724138","0,5",n,x,
+20240923,Monday,17h45,Hortense,citric acid,Chistera,"854,8","-0,5294699482","324,21","318,84","5,37","4,6",7,"8,53","0,4107142857","0,564516129",n,x,
+20240924,Tuesday,17h16,Hortense,citric acid,Chistera,"862,5","0,366556118","324,59","321,03","3,56","6,8","6,9",22,"0,6355140187","0,696969697",y,o,
+20240925,Wednesday,17h27,Hortense,citric acid,Chistera,865,"0,657473672","323,94","320,3","3,64","9,1","7,1",19,"0,6363636364","0,3944444444",n,x,
+20240926,Thursday,17h49,Hortense,citric acid,Chistera,"862,1","0,3200093094","324,2","316,4","7,8","6,8","9,3",19,"0,5","0,6788321168",n,x,
+20240927,Friday,17h29,Hortense,citric acid,Chistera,"865,1","0,6691103741","325,18","322,82","2,36","6,4","4,4",25,"0,4076433121","0,2417582418",y,x,
+20240930,Monday,17h23,Hortense,citric acid,Chistera,"859,7","0,04072845756","327,75","306,07","21,68","5,5","3,8","25,62","0,3793103448","0,296875",n,x,
+20241001,Tuesday,17h20,Hortense,citric acid,Chistera,"858,4","-0,1105486705","325,12","320,62","4,5","3,8","1,1","25,02","0,2420382166","0,0582010582",n,x,
+20241002,Wednesday,18h05,Hortense,citric acid,Chistera,"853,7","-0,657473672","324,15","317,53","6,62","6,7","4,3","22,43","0,6203703704","0,3138686131",y,x,
+20241003,Thursday,17h45,Hortense,citric acid,Chistera,"834,7","-2,868447082","323,59","321,35","2,24",4,"1,3","11,29","0,3539823009","0,07692307692",n,x,
+20241004,Friday,17h37,Hortense,citric acid,Chistera,"846,7","-1,472042823","323,69","317,44","6,25","6,1",7,22,"0,465648855","0,5072463768",n,x,
+20241007,Monday,17h02,Hortense,citric acid,Chistera,"856,3","-0,3549194158","320,43","305,81","14,62","6,2","6,2",23,"0,31","0,6666666667",n,x,
+20241008,Tuesday,17h03,Hortense,citric acid,Chistera,"856,2","-0,366556118","323,61","319,05","4,56","9,4",5,21,"0,7899159664","0,4166666667",y,x,
+20241009,Wednesday,16h41,Hortense,citric acid,Chistera,857,"-0,2734625007","323,96","309,27","14,69",,"5,7",30,,"0,6",n,x,
+20241010,Thursday,17h20,Hortense,citric acid,Chistera,"855,9","-0,4014662245","325,15","322,15",3,"6,1","5,1",24,"0,6853932584","0,3469387755",n,x,
+20241011,Friday,17h14,Hortense,citric acid,Chistera,"849,8","-1,111305056","324,01","322,43","1,58","6,5","7,5",21,"0,8024691358","0,5597014925",n,x,
+20241014,Monday,17h23,Hortense,citric acid,Chistera,"854,2","-0,5992901612","326,96","316,45","10,51","5,7","4,6",20,"0,4318181818","0,2875",n,x,
+20241015,Tuesday,17h12,Hortense,citric acid,Chistera,"858,2","-0,1338220748","323,51","320,58","2,93","6,4","7,1",22,"0,688172043","0,5966386555",n,x,
+20241016,Wednesday,17h36,Hortense,citric acid,Chistera,"854,9","-0,5178332461","323,39","310,21","13,18","10,1","2,6",23,"0,6433121019","0,1954887218",n,o,
+20241017,Thursday,17h50,Hortense,citric acid,Chistera,854,"-0,6225635655","323,93","319,38","4,55",3,"1,2",31,"0,1973684211","0,1132075472",n,x,

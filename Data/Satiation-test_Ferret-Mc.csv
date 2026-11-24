@@ -1,0 +1,6 @@
+Date,Day,Time,Experimenter,Water type,Animal,Animal weight,Weight loss (% of baseline),Bottle weight day n-1,Bottle weight day n,Difference (water consumption),Bowl weight before,Bottle weight after,Bowl difference,Becher test result (water consumption in mL),comment
+19/05/2025,Monday,17h20,Hortense,WR,Marcellin,"872,7",x,x,x,x,x,x,x,x,Water restriction at 17h30 
+20/05/2025,Tuesday,17h20,Hortense,WR,Marcellin,828,"-5,122035064",x,x,x,"80,92","69,94","10,98",11,Got 5mL of water at 11h05 ; eats in the middle of drinking.
+21/05/2025,Wednesday,17h10,Hortense,WR,Marcellin,"822,9","-5,706428326",x,x,x,"80,72","54,89","25,83",26,"Got 5mL of water at 11h38 ; spilled approx 4mL but hard to tell, disengeaged at the end"
+22/05/2025,Thursday,17h15,Hortense,WR,Marcellin,"820,4","-5,992895611",x,x,x,"99,07","83,19","15,88",16,Got 5mL of water at 11h20 ; started eating in the middle of drinking.
+22/05/2025,Friday,16h52,Hortense,WR,Marcellin,803,"-7,986707918",x,x,x,"99,06","75,93","23,13",23,"Got 5mL of water at 11h ; stopped drinking from 1min18 left to 50 sec left, then stopped agin for the last 30sec."

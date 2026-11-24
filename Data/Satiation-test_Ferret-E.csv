@@ -1,0 +1,6 @@
+Date,Day,Time,Experimenter,Water type,Animal,Animal weight,Weight loss (% of day - 1),Bottle weight day n-1,Bottle weight day n,Difference (water consumption),Bowl weight before,Bottle weight after,Bowl difference,Becher test result (water consumption in mL),comment
+27/05/2024,Monday,17h,Hortense,CA,Etivaz,"813,9",x,x,"522,72",x,x,x,x,x,Day - 1 ; CA water starting 17h30
+28/05/2024,Tuesday,17h20,Hortense,CA,Etivaz,"783,6","-3,722816071","522,72","511,69","11,03",x,x,x,30,Got 5mL of water at 11h10
+29/05/2024,Wednesday,17h10,Hortense,CA,Etivaz,"781,3","-4,00540607","524,1","513,83","10,27","121,41","91,42","29,99",30,Got 5mL of water at 11h40
+30/05/2024,Thursday,17h15,Hortense,CA,Etivaz,"782,3","-3,882540853","523,36","515,32","8,04","121,25","91,71","29,54",30,Got 5mL of water at 11h20; Got water from the bottom cages in the afternoon approx 1-2 hours before water test
+31/05/2024,Friday,16h50,Hortense,CA,Etivaz,"777,1","-4,52143998","523,51",517,"6,51","121,02","94,96","26,06",26,Got 5mL at 11h

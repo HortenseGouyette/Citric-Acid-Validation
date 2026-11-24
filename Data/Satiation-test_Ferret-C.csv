@@ -1,0 +1,6 @@
+Date,Day,Time,Experimenter,Water type,Animal,Animal weight,Weight loss (% of day - 1),Bottle weight day n-1,Bottle weight day n,Difference (water consumption),Bowl weight before,Bottle weight after,Bowl difference,Becher test result (water consumption in mL),comment
+27/05/2024,Monday,17h,Hortense,CA,Chistera,"895,8",x,x,520.77,x,,,,x,Day - 1 ; CA water at 17h30
+28/05/2024,Tuesday,17h20,Hortense,CA,Chistera,"873,3","-2,511721366","520,77","517,85","2,92",,,,22,Got 5mL of water at 11h10
+29/05/2024,Wednesday,17h10,Hortense,CA,Chistera,"859,6","-4,041080598","523,93","495,88","28,05","122,08","95,12","26,96",25,Got 5mL of water at 11h40
+30/05/2024,Thursday,17h15,Hortense,CA,Chistera,"844,1","-5,77137754","523,83","503,2","20,63","121,43","93,95","27,48",27,Got 5mL of water at 11h20
+31/05/2024,Friday,16h50,Hortense,CA,Chistera,"847,1","-5,436481357","524,64","518,55","6,09","120,97","98,68","22,29",22,Got 5mL at 11h
